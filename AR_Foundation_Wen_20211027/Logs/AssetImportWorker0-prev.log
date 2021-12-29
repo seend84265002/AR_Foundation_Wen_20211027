@@ -1,0 +1,524 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1379; Version 1909; 64bit' Language: 'zh' Physical Memory: 16347 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/GitHub/AR_Foundation_Wen_20211027/AR_Foundation_Wen_20211027
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+10745
+Successfully changed project path to: F:/GitHub/AR_Foundation_Wen_20211027/AR_Foundation_Wen_20211027
+F:/GitHub/AR_Foundation_Wen_20211027/AR_Foundation_Wen_20211027
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 148.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path F:/Unity/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/GitHub/AR_Foundation_Wen_20211027/AR_Foundation_Wen_20211027/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Vendor:   
+    VRAM:     4070 MB
+    Driver:   27.20.21026.2006
+Initialize mono
+Mono path[0] = 'F:/Unity/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56468
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: F:/Unity/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007685 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 114.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.446 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5446ms)
+		BeginReloadAssembly (168ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1567ms)
+			LoadAssemblies (169ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (586ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (111ms)
+			SetupLoadedEditorAssemblies (533ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (115ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (268ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.277 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3279ms)
+		BeginReloadAssembly (499ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (2607ms)
+			LoadAssemblies (265ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (867ms)
+			ReleaseScriptCaches (6ms)
+			RebuildScriptCaches (144ms)
+			SetupLoadedEditorAssemblies (1052ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (282ms)
+				ProcessInitializeOnLoadAttributes (738ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.23 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1744 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2176.
+Total: 8.666200 ms (FindLiveObjects: 0.189800 ms CreateObjectMapping: 0.072900 ms MarkObjects: 8.107000 ms  DeleteObjects: 0.294900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/場景/ARFoundation.unity
+  artifactKey: Guid(341c1e7d608e6cb4cbb18f98751eacf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/ARFoundation.unity using Guid(341c1e7d608e6cb4cbb18f98751eacf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a228cf1061038dfab9b89c77dcd29312') in 0.147441 seconds 
+  Import took 0.158330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.108969 seconds.
+  path: Assets/場景/ARFoundation_反射光.unity
+  artifactKey: Guid(7e7a25a5e50f1af4da28bae9521085e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/ARFoundation_反射光.unity using Guid(7e7a25a5e50f1af4da28bae9521085e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d3514ee9c9b52bb79a25b76bb9d320') in 0.022897 seconds 
+  Import took 0.032260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 325.306972 seconds.
+  path: Assets/場景/ARFoundation_反射光.unity
+  artifactKey: Guid(7e7a25a5e50f1af4da28bae9521085e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/ARFoundation_反射光.unity using Guid(7e7a25a5e50f1af4da28bae9521085e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c2583f3b8716371e5024d1ea0276bf') in 0.008710 seconds 
+  Import took 0.042768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.844825 seconds.
+  path: Assets/場景/ARFoundation_反射光.unity
+  artifactKey: Guid(7e7a25a5e50f1af4da28bae9521085e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/ARFoundation_反射光.unity using Guid(7e7a25a5e50f1af4da28bae9521085e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f584d4264390da3fdd3e9250c8889644') in 0.010879 seconds 
+  Import took 0.016319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 371.251300 seconds.
+  path: Assets/素材/動作控制器.controller
+  artifactKey: Guid(c43bfb89e89213d4e81a3899575afbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/動作控制器.controller using Guid(c43bfb89e89213d4e81a3899575afbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72747e880c8408910a0239885f409f7') in 0.270310 seconds 
+  Import took 0.296837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.264788 seconds.
+  path: Assets/預製物/球體.prefab
+  artifactKey: Guid(68cd9f72a0c9f1940b50f3aebead79b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/預製物/球體.prefab using Guid(68cd9f72a0c9f1940b50f3aebead79b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7aadc8fa8da99aae43df6e97498ba35') in 0.385057 seconds 
+  Import took 0.405741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 318.349469 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(e434140913fbaa24c8a06d87c0ba77c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(e434140913fbaa24c8a06d87c0ba77c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179d5be34d3a86294cd05305b3548843') in 0.057146 seconds 
+  Import took 0.093476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.055655 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Board Black Square.mat
+  artifactKey: Guid(69e127843add3324b997564ca0baf9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Board Black Square.mat using Guid(69e127843add3324b997564ca0baf9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6c9bdc0ef7c66120ee67f1c9eceef4') in 0.106715 seconds 
+  Import took 0.114881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Piece Black.mat
+  artifactKey: Guid(c59ef93cf72d4ff4d9e497aa2e36709d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Piece Black.mat using Guid(c59ef93cf72d4ff4d9e497aa2e36709d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbde13d34b2903332ead84b38d65e6b4') in 0.029007 seconds 
+  Import took 0.032209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Board White Square.mat
+  artifactKey: Guid(f29c0f91228c6994f8a00ad554da1d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Board White Square.mat using Guid(f29c0f91228c6994f8a00ad554da1d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab049724c34b60fd7fc1c4844b434f0b') in 0.024993 seconds 
+  Import took 0.046657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Piece White.mat
+  artifactKey: Guid(dc54d735101d35846aad2a6379145ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Piece White.mat using Guid(dc54d735101d35846aad2a6379145ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ad60aed4ca9e4e55726e83fa204220') in 0.015538 seconds 
+  Import took 0.023585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Board Wood.mat
+  artifactKey: Guid(9b8470654e100b0458336ed5f18d8dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Board Wood.mat using Guid(9b8470654e100b0458336ed5f18d8dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2e4d28a71cff2a96e54f9d38a1f823') in 0.457639 seconds 
+  Import took 0.463430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.365072 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Bishop.fbx
+  artifactKey: Guid(26668f758968c6a43b86a0b9adb91751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Bishop.fbx using Guid(26668f758968c6a43b86a0b9adb91751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419b525da80848e0d9f109af9d302826') in 0.137769 seconds 
+  Import took 0.181841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Rook.fbx
+  artifactKey: Guid(f798ea0d285ea564f8fa79d8902a7f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Rook.fbx using Guid(f798ea0d285ea564f8fa79d8902a7f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1602d320cdae9c9aae41f887364b3a5') in 0.145669 seconds 
+  Import took 0.179043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/King.fbx
+  artifactKey: Guid(7fa6957ab812f2b4aa17692751e3d4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/King.fbx using Guid(7fa6957ab812f2b4aa17692751e3d4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6419b16ce6b1b1dc5adb27819f293e8d') in 0.081833 seconds 
+  Import took 0.096043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001835 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Board.fbx
+  artifactKey: Guid(ae927d68f358e5947ad61ff4d6bc04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Board.fbx using Guid(ae927d68f358e5947ad61ff4d6bc04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c92cf0ceee4ae817cd03f6bbb400eff') in 0.157609 seconds 
+  Import took 0.168377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Knight.fbx
+  artifactKey: Guid(0c8b3e10f1de0c847a5168f2db2aec77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Knight.fbx using Guid(0c8b3e10f1de0c847a5168f2db2aec77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b76936a9d1b3fa6447cc8a1288d19f') in 0.074386 seconds 
+  Import took 0.086160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Pawn.fbx
+  artifactKey: Guid(e256fd3c11be3984cad2371254d1d558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Pawn.fbx using Guid(e256fd3c11be3984cad2371254d1d558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8a208b1340999150f4b840542c3bd2') in 0.081561 seconds 
+  Import took 0.101890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Queen.fbx
+  artifactKey: Guid(80ae7b99dc98b8d41abb6c1d7cefcd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Models/Queen.fbx using Guid(80ae7b99dc98b8d41abb6c1d7cefcd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99d5e14b1ed619df1d095843130ad31') in 0.074772 seconds 
+  Import took 0.132043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.856118 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Bishop Black.prefab
+  artifactKey: Guid(4bdcfd353a0c75b4dba74e9ab8551767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Bishop Black.prefab using Guid(4bdcfd353a0c75b4dba74e9ab8551767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c608f92a4767db4f3411fa7877c8bae8') in 0.032700 seconds 
+  Import took 0.054337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Queen White.prefab
+  artifactKey: Guid(cd5a2f16ba7c50546a342fb800ce7ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Queen White.prefab using Guid(cd5a2f16ba7c50546a342fb800ce7ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0539fc9a0ea699cf40221e246f9e2b15') in 0.027091 seconds 
+  Import took 0.060833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Pawn White.prefab
+  artifactKey: Guid(43236b25d7d744f458b0afd6f1c55873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Pawn White.prefab using Guid(43236b25d7d744f458b0afd6f1c55873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90e84e3eab07920fa90ad99c0467f7e') in 0.136968 seconds 
+  Import took 0.175253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Pawn Black.prefab
+  artifactKey: Guid(286f221ae8e64c84488623c45affa7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Pawn Black.prefab using Guid(286f221ae8e64c84488623c45affa7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426b85fe65f09666efa4c3e8e5724bf0') in 0.154576 seconds 
+  Import took 0.183806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Knight Black.prefab
+  artifactKey: Guid(d39feb54f164f2b4dbb47e22144db7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Knight Black.prefab using Guid(d39feb54f164f2b4dbb47e22144db7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c97eef27889ec0af3e47acee31a544') in 0.056674 seconds 
+  Import took 0.185586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Rook Black.prefab
+  artifactKey: Guid(93dd395eb55c57b4daf3b5c28d35a56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Rook Black.prefab using Guid(93dd395eb55c57b4daf3b5c28d35a56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb59e807e33c02fadb463cf3eb54bf8') in 0.126269 seconds 
+  Import took 0.145466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Rook White.prefab
+  artifactKey: Guid(75d95e48b446427429aa699a46a792bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Rook White.prefab using Guid(75d95e48b446427429aa699a46a792bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571bbc7668b93b9fb05df04910251664') in 0.068982 seconds 
+  Import took 0.120800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Bishop White.prefab
+  artifactKey: Guid(5496bebed72cc61419352a6ba282eb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Bishop White.prefab using Guid(5496bebed72cc61419352a6ba282eb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12aa27c9ed9f86ca3c0ce20f99c20d2b') in 0.071144 seconds 
+  Import took 0.075868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/King White.prefab
+  artifactKey: Guid(74d29e36ad1d00b4c85246b78706da73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/King White.prefab using Guid(74d29e36ad1d00b4c85246b78706da73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2e07a3566c870a86b6f5bc56bf9af6') in 0.055256 seconds 
+  Import took 0.088642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/King Black.prefab
+  artifactKey: Guid(bcb9dfbceb2318a418354bd773bd9ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/King Black.prefab using Guid(bcb9dfbceb2318a418354bd773bd9ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c418341739d17b0b75105cf677e7cd') in 0.059403 seconds 
+  Import took 0.066470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Board.prefab
+  artifactKey: Guid(1fd64d277606e9f46aff33274076e5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Board.prefab using Guid(1fd64d277606e9f46aff33274076e5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974feaf395fad344541898ea7b9519b5') in 0.100743 seconds 
+  Import took 0.129858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Queen Black.prefab
+  artifactKey: Guid(21278256c7aa9ab4da388250760d3466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Queen Black.prefab using Guid(21278256c7aa9ab4da388250760d3466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d4499c33a1eda7ab7bdd4f9cfccbeb') in 0.070587 seconds 
+  Import took 0.075318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001656 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Knight White.prefab
+  artifactKey: Guid(f7a71af87006047448153fd000009c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Prefabs/Knight White.prefab using Guid(f7a71af87006047448153fd000009c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2771abebed102ab44013807a0ae5639') in 0.030924 seconds 
+  Import took 0.085259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.147704 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Textures/Wood.png
+  artifactKey: Guid(f0fa4eba2a579b34ba224ec724b98dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Textures/Wood.png using Guid(f0fa4eba2a579b34ba224ec724b98dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fc68aa7538d544ed279b3bf5353684') in 0.325536 seconds 
+  Import took 0.339999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Textures/Wood_Normal.png
+  artifactKey: Guid(b215101ba716d48419303569bc205e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Armed Gorilla/AG Chess Set (Low Poly)/Textures/Wood_Normal.png using Guid(b215101ba716d48419303569bc205e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd956cb8a7dedea67699f9975acb33b') in 0.109719 seconds 
+  Import took 0.122484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.197434 seconds.
+  path: Assets/素材/反射材質.mat
+  artifactKey: Guid(30ed92104cb5fbf45b58f8a2b8b3ebef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/反射材質.mat using Guid(30ed92104cb5fbf45b58f8a2b8b3ebef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37dccacf16cbca36beb6139a5b37c49') in 0.030887 seconds 
+  Import took 0.037795 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 174.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.743 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4743ms)
+		BeginReloadAssembly (351ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (98ms)
+		EndReloadAssembly (3481ms)
+			LoadAssemblies (369ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1146ms)
+			ReleaseScriptCaches (13ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (1349ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (175ms)
+				BeforeProcessingInitializeOnLoad (223ms)
+				ProcessInitializeOnLoadAttributes (918ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2992 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.3 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 3423.
+Total: 14.128300 ms (FindLiveObjects: 0.296600 ms CreateObjectMapping: 0.158100 ms MarkObjects: 10.215400 ms  DeleteObjects: 3.456200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1390.262684 seconds.
+  path: Assets/素材/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(05024a9fce865574ca97b4305d05b709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/UniversalRenderPipelineAsset.asset using Guid(05024a9fce865574ca97b4305d05b709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e5f516a5463da774fce40fa4293a92') in 0.212472 seconds 
+  Import took 0.230109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/素材/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(7d9fe020c5866364fb4a2d3e66bca3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/UniversalRenderPipelineAsset_Renderer.asset using Guid(7d9fe020c5866364fb4a2d3e66bca3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bc6265749999160846c7ec18927f22') in 0.100509 seconds 
+  Import took 0.126369 seconds .
+
+========================================================================
+Received Prepare
+Switching render pipeline 00000000000000000000000000000000 -> 05024a9fce865574ca97b4305d05b709
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 11.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 3491.
+Total: 17.413900 ms (FindLiveObjects: 0.488200 ms CreateObjectMapping: 0.201000 ms MarkObjects: 11.840100 ms  DeleteObjects: 4.882500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
